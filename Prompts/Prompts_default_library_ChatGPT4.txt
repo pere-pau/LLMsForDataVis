@@ -19,7 +19,7 @@ Can you write a Python script that generates a Radar chart using columns A (orde
 Can you write a Python script that generates a Range plot using columns A (categorical) and B (quantitative) from the CSV file myfile.csv?
 Can you write a Python script that generates a Scatterplot using columns A (quantitative), and B (quantitative) from the CSV file myfile.csv?
 Can you write a Python script that generates a Stacked bar chart using columns A (categorical), B (categorical), and C (quantitative) from the CSV file myfile.csv?
-Can you write a Python script that generates a Stacked column chart using columns 	A (categorical), B (categorical), and C (quantitative) from the CSV file myfile.csv?
+Can you write a Python script that generates a Stacked column chart using columns A (categorical), B (categorical), and C (quantitative) from the CSV file myfile.csv?
 Can you write a Python script that generates a Violin plot using columns A (categorical) and B (quantitative) from the CSV file myfile.csv?
 Can you write a Python script that generates a XY Heatmap chart using columns A (categorical), B (categorical) and C (quantitative) from the CSV file myfile.csv?
 
