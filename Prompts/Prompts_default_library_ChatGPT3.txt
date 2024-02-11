@@ -1,0 +1,24 @@
+Can you write a Python script that generates a Area chart using columns A (time), B (categorical) and C (quantitative) from the CSV file myfile.csv?
+Can you write a Python script that generates a Bar chart using columns A (categorical) and B (quantitative) from the CSV file myfile.csv?
+Can you write a Python script that generates a Box plot using columns A (categorical) and B (quantitative) from the CSV file myfile.csv?
+Can you write a Python script that generates a Bubble chart using columns A (quantitative), B (quantitative), and C (quantitative) from the CSV file myfile.csv?
+Can you write a Python script that generates a Bullet chart using columns A (categorical), B (quantitative) indicates the value and C (quantitative), indicates the second value?
+Can you write a Python script that generates a Choropleth using columns A (indicates the region) and B (quantitative) from the CSV file myfile.csv, and the regions taken from regions.geojson, which is a geojson file?
+Can you write a Python script that generates a Column chart using columns A (categorical) and B (quantitative) from the CSV file myfile.csv?
+Can you write a Python script that generates a Donut chart using columns A (categorical) and B (quantitative) from the CSV file myfile.csv?
+Can you write a Python script that generates a Dot plot using columns A (categorical) and B (quantitative) from the CSV file myfile.csv?
+Can you write a Python script that generates a Graduated symbol map using columns A (indicates the region) and B (quantitative) from the CSV file myfile.csv, and the regions taken from regions.geojson, which is a geojson file?
+Can you write a Python script that generates a Grouped bar chart using columns A (categorical), B (categorical), and C (quantitative) from the CSV file myfile.csv?
+Can you write a Python script that generates a Grouped column chart using columns A (categorical), B (categorical), and C (quantitative) from the CSV file myfile.csv?
+Can you write a Python script that generates a Line chart using columns A (time), B (categorical) and C (quantitative) from the CSV file myfile.csv?
+Can you write a Python script that generates a Locator map using columns name for the name of the object, and latitude and longitude from the CSV file myfile.csv to indicate the positions of the objects, and the regions taken from regions.geojson, which is a geojson file?
+Can you write a Python script that generates a Pictogram chart using columns A (categorical) and B (quantitative) from the CSV file myfile.csv?
+Can you write a Python script that generates a Pie chart using columns A (categorical) and B (quantitative) from the CSV file myfile.csv?
+Can you write a Python script that generates a Pyramid chart using columns A (categorical, contains the age ranges, sorted), B (quantitative) and C (quantitative)?
+Can you write a Python script that generates a Radar chart using columns A (ordered), B (categorical), and C (quantitative) from the CSV file myfile.csv?
+Can you write a Python script that generates a Range plot using columns A (categorical) and B (quantitative) from the CSV file myfile.csv?
+Can you write a Python script that generates a Scatterplot using columns A (quantitative), and B (quantitative) from the CSV file myfile.csv?
+Can you write a Python script that generates a Stacked bar chart using columns A (categorical), B (categorical), and C (quantitative) from the CSV file myfile.csv?
+Can you write a Python script that generates a Stacked column chart using columns 	A (categorical), B (categorical), and C (quantitative) from the CSV file myfile.csv?
+Can you write a Python script that generates a Violin plot using columns A (categorical) and B (quantitative) from the CSV file myfile.csv?
+Can you write a Python script that generates a XY Heatmap chart using columns A (categorical), B (categorical) and C (quantitative) from the CSV file myfile.csv?
