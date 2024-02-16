@@ -2,7 +2,7 @@ Can you write a Python script that generates a Area chart using columns A (time)
 Can you write a Python script that generates a Bar chart using columns A (categorical) and B (quantitative) from the CSV file myfile.csv?
 Can you write a Python script that generates a Box plot using columns A (categorical) and B (quantitative) from the CSV file myfile.csv?
 Can you write a Python script that generates a Bubble chart using columns A (quantitative), B (quantitative), and C (quantitative) from the CSV file myfile.csv?
-Can you write a Python script that generates a Bullet chart using columns A (categorical), B (quantitative) indicates the value and C (quantitative), indicates the second value?
+Can you write a Python script that generates a Bullet chart using columns A (categorical), B (quantitative) indicates the value and C (quantitative), indicates the second value from the CSV file myfile.csv?
 Can you write a Python script that generates a Choropleth using columns A (indicates the region) and B (quantitative) from the CSV file myfile.csv, and the regions taken from regions.geojson, which is a geojson file?
 Can you write a Python script that generates a Column chart using columns A (categorical) and B (quantitative) from the CSV file myfile.csv?
 Can you write a Python script that generates a Donut chart using columns A (categorical) and B (quantitative) from the CSV file myfile.csv?
