@@ -2,7 +2,7 @@ Can you write a Python script that generates a Area chart with Plotly using colu
 Can you write a Python script that generates a Bar chart with Plotly using columns A (categorical) and B (quantitative) from the CSV file myfile.csv?
 Can you write a Python script that generates a Box plot with Plotly using columns A (categorical) and B (quantitative) from the CSV file myfile.csv?
 Can you write a Python script that generates a Bubble chart with Plotly using columns A (quantitative), B (quantitative), and C (quantitative) from the CSV file myfile.csv?
-Can you write a Python script that generates a Bullet chart with Plotly using columns A (categorical), B (quantitative) indicates the value and C (quantitative), indicates the second value?
+Can you write a Python script that generates a Bullet chart with Plotly using columns A (categorical), B (quantitative) indicates the value and C (quantitative), indicates the second value from the CSV file myfile.csv?
 Can you write a Python script that generates a Choropleth with Plotly using columns A (indicates the region) and B (quantitative) from the CSV file myfile.csv, and the regions taken from regions.geojson, which is a geojson file?
 Can you write a Python script that generates a Column chart with Plotly using columns A (categorical) and B (quantitative) from the CSV file myfile.csv?
 Can you write a Python script that generates a Donut chart with Plotly using columns A (categorical) and B (quantitative) from the CSV file myfile.csv?
