@@ -21,7 +21,7 @@ This repository was created during the work that led to the following publicatio
   pages={343-352},
   keywords={Data visualization;Human-centered computing—Visualization—Visualization techniques;Human-centered computing—Visualization—Empirical studies in visualization},
   doi={10.1109/PacificVis60374.2024.00049}}
-
+```
 ## Respository
 To cite this repository in publications, please use the following Bibtex entry:
 ```bibtex
