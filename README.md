@@ -36,9 +36,12 @@ To cite this repository in publications, please use the following Bibtex entry:
 ```
 ## Author
 Pere-Pau Vázquez
+
 ViRVIG Group 
+
 Department of Computer Science
-Universitat Politècnica de Catalunya
+
+Universitat Politècnica de Catalunya (Barcelona)
 
 
 
