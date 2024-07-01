@@ -33,4 +33,12 @@ To cite this repository in publications, please use the following Bibtex entry:
   journal      = {GitHub Repository},
   howpublished = {\url{https://github.com/pere-pau/LLMsForDataVis}},
 }
+```
+## Author
+Pere-Pau Vázquez
+ViRVIG Group 
+Department of Computer Science
+Universitat Politècnica de Catalunya
+
+
 
